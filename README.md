@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nada Nabil</h1>
 <h3 align="center">Junior flutter developer</h3>
 
-- Work Experience [Dental House Doctor](https://play.google.com/store/apps/details?id=com.bestDoctor.dental_house_app)
+- Work Experience [Dental House Doctor](https://play.google.com/store/apps/details?id=com.bestDoctor.dental_house_app) 
 
 - 👩‍🎓 Graduation project [Etma2n](https://www.linkedin.com/posts/nadanabil7_graduationproject-graduation2022-mentalhealth-activity-6962165364973547520-gL1K?utm_source=share&utm_medium=member_desktop)
 
-- 📫 How to reach me **nadanabil2307@gmail.com**
+- 📫 How to reach me **nadanabilhelmyy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J5fS6H595hvjeqSRLC2dFtZxwHcCCYyl/view?usp=sharing](https://drive.google.com/file/d/1J5fS6H595hvjeqSRLC2dFtZxwHcCCYyl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Rc3GTe85RD9ykko_SaRbs3qUjTzEjD5k/view?usp=sharing](https://drive.google.com/file/d/1Rc3GTe85RD9ykko_SaRbs3qUjTzEjD5k/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nadanabil7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadanabil7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nadanabilhelmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadanabilhelmy" height="30" width="40" /></a>
 <a href="https://fb.com/nada2307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nada2307" height="30" width="40" /></a>
 </p>
 
